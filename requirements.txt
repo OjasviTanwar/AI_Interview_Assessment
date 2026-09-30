@@ -1,0 +1,17 @@
+# Core web framework
+Flask
+
+# Speech-to-text
+openai-whisper
+
+# Audio feature extraction
+librosa
+
+# TF-IDF semantic scoring
+scikit-learn
+
+# PDF report generation
+reportlab
+
+# Numerical computing
+numpy

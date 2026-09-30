@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment secrets
+.env
+
+# Generated data (already-tracked files need `git rm --cached` to stop tracking)
+data/audio_samples/*.wav
+data/reports/*.pdf
+*.sqlite3
+*.db
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
