@@ -1,0 +1,18 @@
+
+AI INTERVIEW REPORT
+-------------------
+
+Transcript:
+ If divides the answer, I don't know about span, but you know the feeling.
+
+Confidence Score: 3/100
+Communication Score: 70/100
+Cognitive Load Score: 47/100
+
+Observations:
+- Speech energy reflects confidence
+- Vocabulary complexity reflects cognitive load
+
+Suggestions:
+- Reduce fillers
+- Use structured answers (STAR method)
